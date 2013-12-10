@@ -1,3 +1,4 @@
+<pre>
 wifi3gswithcer
 ==============
 點一下即可快速切換網路(多一個可以停用所有網路的功能XD)
@@ -10,3 +11,4 @@ wifi3gswithcer
 
 
 https://play.google.com/store/apps/details?id=com.com.cnevinc.networkswitcher
+</pre>
