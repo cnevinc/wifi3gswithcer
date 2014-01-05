@@ -11,9 +11,9 @@ Wifi 3G選邊站
 簡易放到桌面上，點一下就設定完成了
 有人建議可否多一個功能，就是3G跟WiFi全關
 這...不如開飛行模式吧XD 總之這個APP只Focus再切換網路而已
-點選APP圖示之後會在螢幕下方看到 "Using [WiFi/3G] Now" (畫面可能會閃一下或不會有畫面)
+點選APP圖示之後會在螢幕下方看到 "Using [WiFi/3G] Now" 
 就知道已經安裝成功囉~
 
-
+App 下載
 https://play.google.com/store/apps/details?id=com.cgearc.notwork
 </pre>
